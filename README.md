@@ -2,7 +2,7 @@
   Hello World! I am Dani Eka 👋
 </h2>
 
-<img src="https://i.redd.it/0zakxwpqbpgg1.gif" width="999"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk5dXo4cGljanB0eXdxNDlmMTh5aGY2dzVob2ludnVvbTNqa3p0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENQv1uyCKbQ3BHRcvd/giphy.gif" width="999"/>
 
 - 🔭 I'm currently studying **@Jakarta International University** as a Information Technology Student.
 
