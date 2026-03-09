@@ -17,3 +17,9 @@
 
 ##### 📞 Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieka956@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniEkaQwerty/DaniEkaQwerty/output/generate-snake-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniEkaQwerty/DaniEkaQwerty/output/generate-snake-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DaniEkaQwerty/DaniEkaQwerty/output/generate-snake-contribution-graph.svg">
+</picture>
